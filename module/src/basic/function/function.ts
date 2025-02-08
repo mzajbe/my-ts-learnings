@@ -29,3 +29,5 @@ const arr: number[] = [1, 2, 3];
 const newArray: number[] = arr.map(
   (element: number): number => element * element
 );
+
+let a = 10;
