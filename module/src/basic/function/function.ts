@@ -31,3 +31,4 @@ const newArray: number[] = arr.map(
 );
 
 let a = 10;
+let b = 'no work tody'
